@@ -23,13 +23,13 @@ Name | Year |
 [Europass diploma suplement](https://www.gomezabajo.es/pdf/2015_SET_Titulo_Ingeniero_en_Informatica_PUB.pdf) | 2000-2006 |
 [Road to Santiago](https://github.com/gomezabajo/academy/blob/main/diplomas/2003_Camino_de_Santiago.pdf) | 2003 |
 [Certificate of correspondence](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_de_correspondencia_PUB.pdf) | 2000-2006 |
-[MSc ICT Research and Innovation](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Titulo_Master_i2-TIC.pdf) | 2016 |
-[MSc Official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_Notas_Master_i2-TIC_MH_digital_PUB.pdf) | 2016 |
-[Final master's thesis](https://github.com/gomezabajo/academy/blob/main/works/2016_Master_i2-TIC_TFM.pdf) | 2016 |
-[PhD in Computer Science and Engineering](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering.pdf) | 2020 |
-[PhD supporting document](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_payment_PUB.pdf) | 2020 |
-[PhD certificate](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_certificate_PUB.pdf) | 2020 |
-[PhD thesis document](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_and_Engineering_Thesis.pdf) | 2020 |
+[MSc ICT Research and Innovation](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Titulo_Master_i2-TIC.pdf) | 2014-2016 |
+[MSc Official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_Notas_Master_i2-TIC_MH_digital_PUB.pdf) | 2014-2016 |
+[Final master's thesis](https://github.com/gomezabajo/academy/blob/main/works/2016_Master_i2-TIC_TFM.pdf) | 2014-2016 |
+[PhD in Computer Science and Engineering](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering.pdf) | 2016-2020 |
+[PhD supporting document](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_payment_PUB.pdf) | 2016-2020 |
+[PhD certificate](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_certificate_PUB.pdf) | 2016-2020 |
+[PhD thesis document](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_and_Engineering_Thesis.pdf) | 2016-2020 |
 
 
 
