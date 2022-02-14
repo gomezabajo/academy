@@ -30,14 +30,26 @@ Name | Year |
 
 # Languages
 
-Name | Institution | Year |
---- | --- | --- |
-[Advanced Portuguese - C1](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_C1_Instituto_Camoes.pdf) | Instituto Camões | 2021 |
-[Upper Intermediate Portuguese - B2](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B2_Instituto_Camoes.pdf) | Instituto Camões | 2021 |
-[Intermediate Portuguese - B1](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B1_UAM.pdf) | Universidad Autónoma de Madrid | 2021 |
-[Intermediate Portuguese - B1](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Portugues_B1_oficial_PUB.pdf) | UNED | 2021 |
-[Elementary Portuguese - A2](https://github.com/gomezabajo/academy/blob/main/diplomas/2004_Curso_Inicial_de_Lingua_Portuguesa.pdf) | Universidade de Lisboa | 2004 |
-[Beginner Arabic - A1](https://github.com/gomezabajo/academy/blob/main/diplomas/2008_Certificado_EOI_Arabe_A1_PUB.pdf) | E.O.I. Madrid | 2008 |
+Name | Level | Institution | Year |
+--- | --- | --- | --- |
+[Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_Certificado_EOI_Ingles_C2_oficial_PUB.pdf) | C2 | E.O.I. Madrid | 2020 |
+[Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Ingles_C2_PUB.pdf) | C2 | UNED | 2021 |
+[Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Portugues_B1_oficial_PUB.pdf) | C2 | UNED | 2021 |
+[Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_Certificado_UNED_Ingles_C2_PUB.pdf) | C2 | UNED | 2020 |
+[Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_Certificado_UNED_Ingles_C2_oficial_PUB.pdf) | C2 | UNED | 2020 |
+[Advanced English](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_C1_Instituto_Camoes.pdf) | C1 | E.O.I. Madrid | 2019 |
+[Advanced English](https://github.com/gomezabajo/academy/blob/main/diplomas/2019_General_English_C1_UAM.pdf) | C1 | Universidad Autónoma de Madrid | 2019 |
+[Advanced English](https://github.com/gomezabajo/academy/blob/main/diplomas/2019_Certificado_UNED_Ingles_C1_PUB.pdf) | C1 | UNED | 2019 |
+[Advanced English](https://github.com/gomezabajo/academy/blob/main/diplomas/2019_Certificado_UNED_Ingles_C1_oficial_PUB.pdf) | C1 | UNED | 2019 |
+[Upper Intermediate English](https://github.com/gomezabajo/academy/blob/main/diplomas/2018_Certificado_EOI_Ingles_B2_oficial_PUB.pdf) | B2 | E.O.I. Madrid | 2018 |
+[Upper Intermediate English](https://github.com/gomezabajo/academy/blob/main/diplomas/2018_English_EAP_B2_UAM.pdf) | B2 | Universidad Autónoma de Madrid | 2018 |
+[Intermediate English](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_EOI_Ingles_B1_PUB.pdf) | B1 | E.O.I. Madrid | 2000 |
+[Advanced Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_C1_Instituto_Camoes.pdf) | C1 | Instituto Camões | 2021 |
+[Upper Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B2_Instituto_Camoes.pdf) | B2 | Instituto Camões | 2021 |
+[Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B1_UAM.pdf) | B1 | Universidad Autónoma de Madrid | 2021 |
+[Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Portugues_B1_oficial_PUB.pdf) | B1 |UNED | 2021 |
+[Elementary Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2004_Curso_Inicial_de_Lingua_Portuguesa.pdf) | A2 | Universidade de Lisboa | 2004 |
+[Beginner Arabic](https://github.com/gomezabajo/academy/blob/main/diplomas/2008_Certificado_EOI_Arabe_A1_PUB.pdf) | A1 | E.O.I. Madrid | 2008 |
 
 
 
