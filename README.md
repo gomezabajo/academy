@@ -1,3 +1,30 @@
 # Academic Works, Certificates &amp; Diplomas
 
+# I.E.S. La Estrella, High School Education, 1996-2000
+
+Name | Year |
+--- | --- |
+[Secondary education](https://github.com/gomezabajo/academy/blob/main/diplomas/1998_Titulo_Secundaria_PUB.pdf) | 1998 |
+[Natural & Health Sciences](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_EOI_Ingles_B1_PUB.pdf) | 2000 |
+[Special mention certification](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_MH_Bachiller_PUB.pdf) | 2000 |
+
+# Universidad Complutense de Madrid, 2000
+
+Name | Year |
+--- | --- |
+[University access certification](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_PAU_PUB.pdf) | 2000 |
+
+# Universidad Autónoma de Madrid, University Education, 2000-2020
+
+Name | Year |
+--- | --- |
+[Bachelor (BSc) in Computer Science](https://github.com/gomezabajo/academy/blob/main/diplomas/2006_Titulo_Ingeniero_en_Informatica_compulsado.pdf) | 2000-2006 |
+[Official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2006_Certificado_Notas_Ingeniero_en_Informatica_digital_PUB.pdf) | 2000-2006 |
+[Europass diploma suplement](https://www.gomezabajo.es/pdf/2015_SET_Titulo_Ingeniero_en_Informatica_PUB.pdf) | 2000-2006 |
+[Certificate of correspondence](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_de_correspondencia_PUB.pdf) | 2000-2006 |
+[Road to Santiago](https://github.com/gomezabajo/academy/blob/main/diplomas/2003_Camino_de_Santiago.pdf) | 2003 |
+
+
+
+
 
