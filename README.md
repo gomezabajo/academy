@@ -7,6 +7,7 @@ Name | Year |
 [PhD in Computer Science and Engineering](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering.pdf) | 2016-2020 |
 [PhD supporting document](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_payment_PUB.pdf) | 2016-2020 |
 [PhD certificate](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_certificate_PUB.pdf) | 2016-2020 |
+[PhD cum laude notification](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_cum_laude.pdf) | 2020 |
 [PhD thesis document](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_and_Engineering_Thesis.pdf) | 2020 |
 [PhD defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_presentation.pdf) | 2020 |
 [MSc ICT Research and Innovation](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Titulo_Master_i2-TIC.pdf) | 2014-2016 |
