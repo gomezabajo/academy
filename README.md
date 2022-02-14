@@ -25,7 +25,7 @@ Name | Year |
 --- | --- |
 [University access certification](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_PAU_PUB.pdf) | 2000 |
 
-# I.E.S. La Estrella, High School Education, 1996-2000
+# I.E.S. La Estrella, Secondary Education, 1996-2000
 
 Name | Year |
 --- | --- |
