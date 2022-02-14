@@ -25,13 +25,13 @@ Name | Year |
 [Road to Santiago](https://github.com/gomezabajo/academy/blob/main/diplomas/2003_Camino_de_Santiago.pdf) | 2003 |
 [MSc ICT Research and Innovation](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Titulo_Master_i2-TIC.pdf) | 2014-2016 |
 [MSc official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_Notas_Master_i2-TIC_MH_digital_PUB.pdf) | 2014-2016 |
-[MSc thesis](https://github.com/gomezabajo/academy/blob/main/works/2016_Master_i2-TIC_TFM.pdf) | 2014-2016 |
-[MSc thesis defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2016_TFM_pgomez_es.pdf) | 2014-2016 |
+[MSc thesis](https://github.com/gomezabajo/academy/blob/main/works/2016_Master_i2-TIC_TFM.pdf) | 2016 |
+[MSc thesis defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2016_TFM_pgomez_es.pdf) | 2016 |
 [PhD in Computer Science and Engineering](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering.pdf) | 2016-2020 |
 [PhD supporting document](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_payment_PUB.pdf) | 2016-2020 |
 [PhD certificate](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_certificate_PUB.pdf) | 2016-2020 |
-[PhD thesis document](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_and_Engineering_Thesis.pdf) | 2016-2020 |
-[PhD defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_presentation.pdf) | 2016-2020 |
+[PhD thesis document](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_and_Engineering_Thesis.pdf) | 2020 |
+[PhD defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_presentation.pdf) | 2020 |
 
 
 
