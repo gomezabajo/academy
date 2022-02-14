@@ -47,6 +47,7 @@ Name | Level | Institution | Year |
 [Advanced Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_C1_Instituto_Camoes.pdf) | C1 | Instituto Camões | 2021 |
 [Upper Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B2_Instituto_Camoes.pdf) | B2 | Instituto Camões | 2021 |
 [Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B1_UAM.pdf) | B1 | Universidad Autónoma de Madrid | 2021 |
+[Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Portugues_B1_PUB.pdf) | B1 |UNED | 2021 |
 [Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Portugues_B1_oficial_PUB.pdf) | B1 |UNED | 2021 |
 [Elementary Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2004_Curso_Inicial_de_Lingua_Portuguesa.pdf) | A2 | Universidade de Lisboa | 2004 |
 [Beginner Arabic](https://github.com/gomezabajo/academy/blob/main/diplomas/2008_Certificado_EOI_Arabe_A1_PUB.pdf) | A1 | E.O.I. Madrid | 2008 |
