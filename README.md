@@ -33,6 +33,18 @@ Name | Year |
 [PhD thesis document](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_and_Engineering_Thesis.pdf) | 2020 |
 [PhD defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_presentation.pdf) | 2020 |
 
+# Languages
+
+Name | Institution | Year |
+--- | --- | --- |
+[Advanced Portuguese - C1](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_C1_Instituto_Camoes.pdf) | Instituto Camões | 2021 |
+[Upper Intermediate Portuguese - B2](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B2_Instituto_Camoes.pdf) | Instituto Camões | 2021 |
+[Intermediate Portuguese - B1](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B1_UAM.pdf) | Universidad Autónoma de Madrid | 2021 |
+[Intermediate Portuguese - B1](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Portugues_B1_oficial_PUB.pdf) | UNED | 2021 |
+[Elementary Portuguese - A2](https://github.com/gomezabajo/academy/blob/main/diplomas/2004_Curso_Inicial_de_Lingua_Portuguesa.pdf) | Universidade de Lisboa | 2004 |
+[Beginner Arabic - A1](https://github.com/gomezabajo/academy/blob/main/diplomas/2008_Certificado_EOI_Arabe_A1_PUB.pdf) | E.O.I. Madrid | 2008 |
+
+
 
 
 
