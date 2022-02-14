@@ -1,6 +1,6 @@
 # Academic Works, Certificates &amp; Diplomas
 
-# Universidad Autónoma de Madrid, University Education, 2000-2020
+# University Education
 
 Name | Year |
 --- | --- |
@@ -18,14 +18,9 @@ Name | Year |
 [Europass diploma suplement](https://www.gomezabajo.es/pdf/2015_SET_Titulo_Ingeniero_en_Informatica_PUB.pdf) | 2000-2006 |
 [Certificate of correspondence](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_de_correspondencia_PUB.pdf) | 2000-2006 |
 [Road to Santiago](https://github.com/gomezabajo/academy/blob/main/diplomas/2003_Camino_de_Santiago.pdf) | 2003 |
-
-# Universidad Complutense de Madrid, 2000
-
-Name | Year |
---- | --- |
 [University access certification](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_PAU_PUB.pdf) | 2000 |
 
-# I.E.S. La Estrella, Secondary Education, 1996-2000
+# Secondary Education
 
 Name | Year |
 --- | --- |
