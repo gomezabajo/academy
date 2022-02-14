@@ -5,7 +5,7 @@
 Name | Year |
 --- | --- |
 [Secondary education](https://github.com/gomezabajo/academy/blob/main/diplomas/1998_Titulo_Secundaria_PUB.pdf) | 1998 |
-[Natural & Health Sciences](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_EOI_Ingles_B1_PUB.pdf) | 2000 |
+[Natural & Health Sciences](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Titulo_Bachiller_PUB.pdf) | 2000 |
 [Special mention certification](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_MH_Bachiller_PUB.pdf) | 2000 |
 
 # Universidad Complutense de Madrid, 2000
