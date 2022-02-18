@@ -12,7 +12,7 @@ Name | Year |
 [PhD defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_presentation.pdf) | 2020 |
 [MSc ICT Research and Innovation](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Titulo_Master_i2-TIC.pdf) | 2014-2016 |
 [MSc official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_Notas_Master_i2-TIC_MH_digital_PUB.pdf) | 2014-2016 |
-[MSc thesis](https://github.com/gomezabajo/academy/blob/main/works/2016_Master_i2-TIC_TFM.pdf) | 2016 |
+[MSc thesis document](https://github.com/gomezabajo/academy/blob/main/works/2016_Master_i2-TIC_TFM.pdf) | 2016 |
 [MSc thesis defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2016_TFM_pgomez_es.pdf) | 2016 |
 [BSc in Computer Science](https://github.com/gomezabajo/academy/blob/main/diplomas/2006_Titulo_Ingeniero_en_Informatica_compulsado.pdf) | 2000-2006 |
 [BSc official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2006_Certificado_Notas_Ingeniero_en_Informatica_digital_PUB.pdf) | 2000-2006 |
