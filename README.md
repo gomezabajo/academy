@@ -47,7 +47,7 @@ Name | Level | Institution | Year |
 [Intermediate English](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_EOI_Ingles_B1_PUB.pdf) | B1 | E.O.I. Madrid | 2000 |
 [Advanced Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_C1_Instituto_Camoes.pdf) | C1 | Instituto Camões | 2021 |
 [Upper Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B2_Instituto_Camoes.pdf) | B2 | Instituto Camões | 2021 |
-[Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B1_UAM.pdf) | B1 | Universidad Autónoma de Madrid | 2021 |
+[Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B1_UAM_PUB.pdf) | B1 | Universidad Autónoma de Madrid | 2021 |
 [Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Portugues_B1_PUB.pdf) | B1 |UNED | 2021 |
 [Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Portugues_B1_oficial_PUB.pdf) | B1 |UNED | 2021 |
 [Elementary Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2004_Curso_Inicial_de_Lingua_Portuguesa.pdf) | A2 | Universidade de Lisboa | 2004 |
